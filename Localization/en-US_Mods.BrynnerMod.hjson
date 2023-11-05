@@ -1,0 +1,28 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	TestSword: {
+		DisplayName: The Bloody Sword
+		Tooltip: The bloodiest of all
+	}
+
+	BloodyBow: {
+		DisplayName: The Bloody Bow
+		Tooltip: Shoot enemies with your blood
+	}
+
+	BloodyPickaxe: {
+		DisplayName: The Bloody Pickaxe
+		Tooltip: Mine some blooddd
+	}
+
+	BloodyHamaxe: {
+		DisplayName: The Bloody Hamaxe
+		Tooltip: Get the bloody blood from enemies
+	}
+
+	BloodyStaff: {
+		DisplayName: The Bloody Staff
+		Tooltip: Summon bloody defenders
+	}
+}

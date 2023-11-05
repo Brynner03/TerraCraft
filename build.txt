@@ -1,0 +1,3 @@
+displayName = Brynner's Mod
+author = Brynner
+version = 0.1

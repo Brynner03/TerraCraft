@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8gfDEGThcs8aWGmWfR0evNG6+GtXpg2D6WYwxM+9bLHyv2S8xSazZ25/K/06OdGVRMd+V4trfSKGH4kykrYrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bvent\\Documents\\my games\\Terraria\\tModLoader\\ModSources\\BrynnerMod\\BrynnerMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bvent\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

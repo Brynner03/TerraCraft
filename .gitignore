@@ -1,0 +1,36 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+bin/
+obj/
+Debug/
+Release/
+publish/
+packages/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet package directory
+packages/
+
+# Ignore .NET Core and Visual Studio files
+.project
+.vscode/
+.vs2019/
+.vs2017/
+.vs2015/
+.vs2013/
+.vs2012/
+.vs2010/
+.vs2008/
+
+# Ignore Rider files
+.idea/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

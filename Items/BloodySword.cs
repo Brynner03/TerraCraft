@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 
 namespace BrynnerMod.Items
 {
-	public class TestSword : ModItem
+	public class BloodySword : ModItem
 	{
         // The Display Name and Tooltip of this item can be edited in the Localization/en-US_Mods.BrynnerMod.hjson file.
 

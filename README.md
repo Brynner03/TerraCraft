@@ -28,11 +28,11 @@ The Bloody Pickaxe is a reliable mining tool, perfect for digging deep undergrou
 
 The Bloody Staff is a mystical summoning weapon. Wield its power to summon creatures to fight alongside you and conquer your foes.
 
-### Test Sword
+### Bloody Sword
 
-![Test Sword](/Items/TestSword.png)
+![Bloody Sword](/Items/BloodySword.png)
 
-The Test Sword is a basic melee weapon, perfect for early-game combat. Give it a try and refine your sword-fighting skills.
+The Bloody Sword is a basic melee weapon, perfect for early-game combat. Give it a try and refine your sword-fighting skills.
 
 ## About the Mod
 
